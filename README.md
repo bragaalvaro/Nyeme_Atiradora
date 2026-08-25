@@ -37,7 +37,6 @@ Para começar a jogar, basta apenas fazer o download do arquivo principal do gam
 
 | Ação    | Controle |
 |---|---  |
-
 | Mover   | W, A, S, D ou setas |
 | Mirar   | Mouse |
 | Impulso | Espaço |
